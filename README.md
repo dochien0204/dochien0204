@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dochien0204
-- 👀 I’m interested in Coding with Java
+- 👀 I’m interested in Working with Java Language ☕
 - 🌱 I’m currently learning Java Back-end and React-JS to become Full-Stack Dev 🌟😊
-- 💞️ I'm finding a Java Back-end 's Job
+- 💞️ I'm finding a Java Back-end 's Job 👨‍💼
 - 📫 Contact me : doxuanchienh02042002@gmail.com 💼
 
 <!---
